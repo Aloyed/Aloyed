@@ -1,0 +1,2 @@
+-> Currently working on a model rocket
+-> Uses an arduino (and a little bit of python)
